@@ -36,4 +36,7 @@
     <integer name="config_maxVisibleNotificationIconsWhenDark">6</integer>
 
     <color name="config_fodColor">#ffa0a0a0</color>
+
+    <!-- Allow device to use unordinary cutout overlays -->
+    <bool name="config_customCutout">true</bool>
 </resources>

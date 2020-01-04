@@ -21,5 +21,12 @@
     <!-- the padding on the end of the statusbar -->
     <dimen name="status_bar_padding_end">40px</dimen>
     <dimen name="rounded_corner_content_padding">0dp</dimen>
+    <dimen name="rounded_corner_radius_bottom">85px</dimen>
     <dimen name="nav_content_padding">8dp</dimen>
+
+    <!-- Custom cutout overlay view sizes -->
+    <dimen name="config_customCutoutTopWidth">218.0px</dimen>
+    <dimen name="config_customCutoutTopHeight">218.0px</dimen>
+    <dimen name="config_customCutoutBottomWidth">540.0px</dimen>
+    <dimen name="config_customCutoutBottomHeight">211.0px</dimen>
 </resources>
