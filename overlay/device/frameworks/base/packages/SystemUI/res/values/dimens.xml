@@ -29,4 +29,7 @@
     <dimen name="config_customCutoutTopHeight">218.0px</dimen>
     <dimen name="config_customCutoutBottomWidth">540.0px</dimen>
     <dimen name="config_customCutoutBottomHeight">211.0px</dimen>
+
+    <!-- Volume panel -->
+    <dimen name="volume_dialog_panel_transparent_padding_left">4dp</dimen>
 </resources>
